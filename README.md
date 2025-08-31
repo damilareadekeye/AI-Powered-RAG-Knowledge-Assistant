@@ -361,4 +361,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🐛 **Found a bug?** [Open an issue](https://github.com/damilareadekeye/AI-Powered-RAG-Knowledge-Assistant/issues)
 
-💬 **Have questions?** [Start a discussion](https://github.com/damilareadekeye/AI-Powered-RAG-Knowledge-Assistant/discussions)
+
+💬 **Have questions?** [Start a discussion](https://damilareadekeye.com/contact)
