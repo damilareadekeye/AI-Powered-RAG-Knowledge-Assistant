@@ -45,7 +45,7 @@ def install_dependencies():
 class PDFToPinecone:
     def __init__(self):
         # Configuration
-        self.PINECONE_API_KEY = "pcsk_6jWP9D_PNZsPKs6wfdaKuuPGParHANpumiSTB5inUqdt1TVYUwKoYyD1g9dhdq8GtCjz6M"
+        self.PINECONE_API_KEY = "pcsk_6jWP9***********************************D1g9dhdq8GtCjz6M"
         self.PINECONE_INDEX_NAME = "scai-index"
         self.EMBEDDING_MODEL_NAME = 'intfloat/multilingual-e5-large'
         self.EXPECTED_DIMENSION = 1024
@@ -346,4 +346,5 @@ def main():
         print("Please check your configuration and try again.")
 
 if __name__ == "__main__":
+
     main()
