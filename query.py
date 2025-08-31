@@ -9,12 +9,12 @@ class DocumentChat:
     def __init__(self):
         # --- Configuration ---
         # Ensure these match your upload script's configuration
-        self.PINECONE_API_KEY = "pcsk_6jWP9D_PNZsPKs6wfdaKuuPGParHANpumiSTB5inUqdt1TVYUwKoYyD1g9dhdq8GtCjz6M" # <--- EDIT THIS
+        self.PINECONE_API_KEY = "pcsk_**************************************************tCjz6M" # <--- EDIT THIS
         self.PINECONE_INDEX_NAME = "scai-index"
         self.EMBEDDING_MODEL_NAME = 'intfloat/multilingual-e5-large'
         
         # You need a Google AI Studio API key for Gemini
-        self.GEMINI_API_KEY = "AIzaSyCZFc_xT3Y4lGsFiUompQ8Lhaf-tjSaKgs" # <--- EDIT THIS
+        self.GEMINI_API_KEY = "AIza****************************************gs" # <--- EDIT THIS
 
         # --- Initialize Components ---
         self.pinecone_index = None
@@ -135,4 +135,5 @@ def main():
         print("----------------")
 
 if __name__ == "__main__":
+
     main()
